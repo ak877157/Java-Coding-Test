@@ -20,6 +20,10 @@ class ICICI extends RBI {
 	
 }
 
+class PNB extends RBI{
+	
+}
+
 
 public class RBIExample {
 
